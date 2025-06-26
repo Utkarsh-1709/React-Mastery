@@ -1,0 +1,10 @@
+/* Modules */
+
+.button{
+  background-color: hsl(190, 80%, 60%);
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: 10px;
+  cursor: pointer;
+}

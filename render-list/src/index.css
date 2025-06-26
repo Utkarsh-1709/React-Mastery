@@ -1,0 +1,43 @@
+.category-fruits{
+  color: rgb(69, 52, 52);
+  margin-bottom: 10px;
+  text-align: center;
+  border: 3px solid;
+  border-radius: 5px;
+  background-color: rgb(219, 236, 243);
+}
+
+.list-items li{
+  margin-bottom: 10px;
+  font-size: 1.5em;
+  list-style: none;
+  text-align: center;
+  margin: 0;
+}
+
+.category-veggie{
+  color: rgb(69, 52, 52);
+  margin-bottom: 10px;
+  text-align: center;
+  border: 3px solid;
+  border-radius: 5px;
+  background-color: rgb(219, 236, 243);
+}
+
+.list-veg li{
+  margin-bottom: 10px;
+  font-size: 1.5em;
+  list-style: none;
+  text-align: center;
+  margin: 0;
+}
+
+.list-items li:hover{
+  color: rgb(105, 157, 157);
+  cursor: pointer;
+}
+
+.list-veg li:hover{
+  color: rgb(105, 157, 157);
+  cursor: pointer;
+}
